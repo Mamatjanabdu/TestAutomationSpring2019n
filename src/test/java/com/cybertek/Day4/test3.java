@@ -7,7 +7,7 @@ import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.chrome.ChromeDriver;
 
-import static io.github.bonigarcia.wdm.WebDriverManager.*;
+
 
 public class test3 {
     public static void main(String[] args) throws Exception {
